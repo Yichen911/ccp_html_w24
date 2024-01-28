@@ -1,0 +1,76 @@
+body{
+    background-color: #ffd1dc;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h4{
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 40px
+}
+
+p {
+    line-height: 50x;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+
+img,video{
+    border: solid 5px black;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-right-radius: 30px;
+}
+
+.container {
+    text-align: center;
+}
+
+.likes {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    list-style-position: inside;
+    margin-bottom: 80px;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.ingredients, .description, .instructions{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    list-style-position: inside;
+    margin-bottom: 80px;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+
